@@ -25,8 +25,8 @@
   
   
 
+  // <meta name="viewport" content="width=device-width">
   <meta name="viewport" content="width=device-width">
-  
   <title>AULAS_JAVA/Cliente.java at master · csato/AULAS_JAVA</title>
     <meta name="description" content="GitHub is where people build software. More than 28 million people use GitHub to discover, fork, and contribute to over 85 million projects.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">

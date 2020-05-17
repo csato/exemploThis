@@ -25,8 +25,8 @@
   
   
 
+  // <meta name="viewport" content="width=device-width">
   <meta name="viewport" content="width=device-width">
-  
   <title>AULAS_JAVA/Cliente.java at master · csato/AULAS_JAVA</title>
     <meta name="description" content="GitHub is where people build software. More than 28 million people use GitHub to discover, fork, and contribute to over 85 million projects.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
@@ -34,6 +34,19 @@
   <meta property="fb:app_id" content="1401488693436528">
 
     
+
+
+  
+  <meta property="og:image" content="https://avatars1.githubusercontent.com/u/10708549?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="csato/AULAS_JAVA" /><meta property="og:url" content="https://github.com/csato/AULAS_JAVA" /><meta property="og:description" content="AULAS_JAVA - repositório destinado a armazenar códigos escritos nas aulas de java para exercitar sintaxe." />
+
+  <link rel="assets" href="https://assets-cdn.github.com/">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjcwNzIwNTcyOjdhM2FlZTc1MjIzZGVjYWE2MzkwY2ExNTA2N2EzYmNlY2IzZTdhMjVjODAwYmIzMDNmNGUxMjhmYzA3MzY4YjE=--cab0439ae4d6f882000566aae02e63ad539bccbe">
+  <meta name="pjax-timeout" content="1000">
+  <link rel="sudo-modal" href="/sessions/sudo_modal">
+  <meta name="request-id" content="A9AA:7BA6:43B407:859E0C:5B2940BD" data-pjax-transient>
+
+
+
     <meta property="og:image" content="https://avatars1.githubusercontent.com/u/10708549?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="csato/AULAS_JAVA" /><meta property="og:url" content="https://github.com/csato/AULAS_JAVA" /><meta property="og:description" content="AULAS_JAVA - repositório destinado a armazenar códigos escritos nas aulas de java para exercitar sintaxe." />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
